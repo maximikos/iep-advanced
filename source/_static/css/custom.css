@@ -341,3 +341,9 @@ html[data-theme="light"] {
     color: inherit;
     text-decoration: none;
 }
+
+/* -------------------- Images -------------------- */
+
+.image-round {
+  border-radius: 50%;
+}

@@ -119,8 +119,8 @@ html_theme_options = {
 
 # required by html_theme_options: "use_edit_page_button"
 html_context = {
-    "github_user": "brightway-lca",
-    "github_repo": "brightway-documentation",
+    "github_user": "maximikos",
+    "github_repo": "iep-advanced",
     "github_version": "main",
     "doc_path": "source",
 }
