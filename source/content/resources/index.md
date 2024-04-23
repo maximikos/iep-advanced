@@ -22,12 +22,8 @@ maxdepth: 3
 hidden: true
 ---
 self
-error_messages
-brightway
-compatibility
-data_management
-environment_management
-confusing_results
-ecoinvent
-simapro
+tools/index
+learning_more
+glossary
+faq
 ```
