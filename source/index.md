@@ -33,10 +33,10 @@ h3:not(#hero h3) {
     <div class="wrapper">
         <span class="first-text">How to</span>
         <ul class="sec-texts">
-            <li><span><a href="content/theory/methods/lca.html">decide between CLCA and ALCA?</a></span></li>
-            <li><span><a href="content/theory/methods/lca.html">apply characterisation factors?</a></span></li>
-            <li><span><a href="content/theory/methods/lca.html">choose global MRIO databases?</a></span></li>
-            <li><span><a href="content/theory/methods/lca.html">perform a Monte Carlo simulation?</a></span></li>
+            <li><span><a href="content/theory/methods/lca.html">perform CLCA and ALCA?</a></span></li>
+            <li><span><a href="content/theory/methods/lca.html">choose PDFs for DMFA?</a></span></li>
+            <li><span><a href="content/theory/methods/lca.html">balance a global MRIOT?</a></span></li>
+            <li><span><a href="content/theory/methods/lca.html">estimate upstream emissions?</a></span></li>
         </ul>
     </div>
 </div>
@@ -54,7 +54,7 @@ h3:not(#hero h3) {
       <a href="./examples/index.html" class="homepage-button secondary-button">About</a>
   </div>
   <div class="homepage-button-container-row">
-      <a href="./api/index.html" class="homepage-button-link">Contact us →</a>
+      <a href="mailto:students@is4ie.org" class="homepage-button-link">Contact us →</a>
   </div>
 </div>
 </div>  <!-- End Hero Left -->

@@ -21,7 +21,6 @@ Please follow the [Brightway Documentation Contribution Guide](../contributing/c
 maxdepth: 3
 hidden: true
 ---
-self
 tools/index
 learning_more
 glossary
