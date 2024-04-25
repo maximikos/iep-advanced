@@ -7,6 +7,5 @@ Something about methods
 hidden: true
 maxdepth: 4
 ---
-io
-lca
+
 ```

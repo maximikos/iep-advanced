@@ -33,10 +33,10 @@ h3:not(#hero h3) {
     <div class="wrapper">
         <span class="first-text">How to</span>
         <ul class="sec-texts">
-            <li><span><a href="content/theory/methods/lca.html">perform CLCA and ALCA?</a></span></li>
-            <li><span><a href="content/theory/methods/lca.html">choose PDFs for DMFA?</a></span></li>
-            <li><span><a href="content/theory/methods/lca.html">balance a global MRIOT?</a></span></li>
-            <li><span><a href="content/theory/methods/lca.html">estimate upstream emissions?</a></span></li>
+            <li><span><a href="..">perform CLCA and ALCA?</a></span></li>
+            <li><span><a href="..">choose PDFs for DMFA?</a></span></li>
+            <li><span><a href="..">balance a global MRIOT?</a></span></li>
+            <li><span><a href="..">estimate upstream emissions?</a></span></li>
         </ul>
     </div>
 </div>

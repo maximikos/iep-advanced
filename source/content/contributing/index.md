@@ -23,7 +23,7 @@ We are happy to find you on this page! Let's improve the documentation together.
 1. A [GitHub account](https://github.com/signup)
 ```
 
-Create a documentation request in the _Discussion_ section of the [`iep-novice`](https://github.com/maximikos/iep-novice) or [`iep-advanced`](https://github.com/maximikos/iep-advanced) repositories, detailing your request and all relevant information. A member of the Brightway developer community will evaluate your request. Please note that all developments are undertaken on a voluntary basis, so it may take some time for your issue to be resolved.
+Create a documentation request in the _Discussion_ section of the [iep-novice](https://github.com/maximikos/iep-novice) or [iep-advanced](https://github.com/maximikos/iep-advanced) repositories, detailing your request and all relevant information. A member of the Brightway developer community will evaluate your request. Please note that all developments are undertaken on a voluntary basis, so it may take some time for your issue to be resolved.
 
 ### 🥈 Write new Content
 
@@ -33,7 +33,7 @@ Create a documentation request in the _Discussion_ section of the [`iep-novice`]
 2. Basic knowledge of [Markdown](https://www.markdownguide.org/basic-syntax/)
 ```
 
-Write your content in [Markdown](https://en.wikipedia.org/wiki/Markdown), using the formatting options described in the [Formatting Guide](./formatting.md) and save it to a single file. Now create a new issue in the _Issues_ section of the [`iep-novice`](https://github.com/maximikos/iep-novice/issues/new) and [`iep-advanced`](https://github.com/maximikos/iep-advanced/issues/new) repositories, describing your request and attaching the Markdown file. A member of the IEP community will integrate your contribution into the documentation. Please note that all developments are undertaken on a voluntary basis, so it may take some time for your issue to be resolved.
+Write your content in [Markdown](https://en.wikipedia.org/wiki/Markdown), using the formatting options described in the [Formatting Guide](./formatting.md) and save it to a single file. Now create a new issue in the _Issues_ section of the [iep-novice](https://github.com/maximikos/iep-novice/issues/new) and [iep-advanced](https://github.com/maximikos/iep-advanced/issues/new) repositories, describing your request and attaching the Markdown file. A member of the IEP community will integrate your contribution into the documentation. Please note that all developments are undertaken on a voluntary basis, so it may take some time for your issue to be resolved.
 
 ### 🥇 Write and add new Content
 
